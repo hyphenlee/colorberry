@@ -13,8 +13,10 @@ see the announcement channel for details.
 * Board Options:
     * Orange pi zero 2W with 4GB RAM
     * Raspberry pi zero 2W
-* How to Order:
-  * Contact: Message me @alex in discord to place your order.
-Accept Alipay.
-  * or by [Elecrow](https://www.elecrow.com/colored-beepy.html).
-Accept Paypal
+# How to Order
+  * Message me @alex in discord to place your order. Accept Alipay.
+  * or by [Elecrow](https://www.elecrow.com/colored-beepy.html). Accept Paypal
+
+# Driver
+* [screen driver and configure file](https://github.com/hyphenlee/jdi-drm-rpi)
+* [orangepi keyboard driver](https://github.com/hyphenlee/beepy-kbd-orangepi)
