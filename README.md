@@ -1,5 +1,5 @@
 # ColorBerry
-This repo is for ColorBerry, which is availabel in discord channel: [discord link](https://discord.gg/2uGPpVmCCE) and [Elecrow](https://www.elecrow.com/colored-beepy.html)
+This repo is for ColorBerry, which is availabel in discord channel: [discord link](https://discord.gg/2uGPpVmCCE) and [Elecrow](https://www.elecrow.com/colorberry.html)
 
 # Main feature
 * New Charging IC: Enjoy faster charging with a new IC that supports up to 1A (previously 100mA).
@@ -12,8 +12,8 @@ This repo is for ColorBerry, which is availabel in discord channel: [discord lin
     * Orange pi zero 2W with 4GB RAM
     * Raspberry pi zero 2W
 # How to Order
-  * Message me @alex in discord to place your order,both raspberry pi and orangepi available. Accept Alipay.
-  * Or by [Elecrow](https://www.elecrow.com/colored-beepy.html),only orangepi available. Accept Paypal
+  * Message me @alex in [discord(https://discord.gg/2uGPpVmCCE) to place your order,both raspberry pi and orangepi available. Accept Alipay.
+  * Or by [Elecrow](https://www.elecrow.com/colorberry.html),only orangepi available. Accept Paypal
 
 # Driver
 * [screen driver and configure file](https://github.com/hyphenlee/jdi-drm-rpi)
