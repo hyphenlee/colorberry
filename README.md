@@ -8,16 +8,18 @@ This repo is for ColorBerry, which is available on [discord](https://discord.gg/
 * Battery : 5000mAh: Battery life to 20 hours with raspberry zero 2w, and 10 hours with orangepi zero 2w.
 * Ready to Go:Everything is pre-configured and works out of the box,no long waits! We hate delays as much as you do. Built in small batches in China,and shipment starts within a week.
 * size:5000mah: 73mm 104mm 18mm 155g
-* nylon case
+* Case Options: 
+   * nylon case
+   * metal case
 * Board Options:
-    * Orange pi zero 2W with 4GB RAM
-    * Raspberry pi zero 2W
+   * Orange pi zero 2W with 4GB RAM
+   * Raspberry pi zero 2W
 # How to Order
-  * Message me @alex in [discord](https://discord.gg/2uGPpVmCCE) to place your order,both raspberry pi and orangepi available. Accept Alipay.
-  * Or by [Elecrow](https://www.elecrow.com/colorberry.html),only orangepi available. Accept Paypal
-  * Metal case [Elecrow](https://www.elecrow.com/metalcaseforcolorberry.html)
-  * ColorBerry with metal case [Elecrow](https://www.elecrow.com/colorberrywithmetalcase.html)
-
+  * Message me @alex in [discord](https://discord.gg/2uGPpVmCCE) to place your order. Accept Alipay.
+  * Elecrow. Accept Paypal.
+      * Nylon case: [Elecrow](https://www.elecrow.com/colorberry.html). 
+      * Metal case:  [Elecrow](https://www.elecrow.com/colorberrywithmetalcase.html)
+      * Metal case only:  [Elecrow](https://www.elecrow.com/metalcaseforcolorberry.html)
 # Driver
-* [screen driver and configure file](https://github.com/hyphenlee/jdi-drm-rpi)
+* [jdi screen driver and configure file](https://github.com/hyphenlee/jdi-drm-rpi)
 * [orangepi keyboard driver](https://github.com/hyphenlee/beepy-kbd-orangepi)
