@@ -20,3 +20,34 @@ This is for ColorBerry, which is available on [discord](https://discord.gg/2uGPp
 # Driver
 * [jdi screen driver and configure file](https://github.com/hyphenlee/jdi-drm-rpi)
 * [orangepi keyboard driver](https://github.com/hyphenlee/beepy-kbd-orangepi)
+* [origin keyboard driver for raspberry pi](https://github.com/ardangelo/beepberry-keyboard-driver)
+
+# default username
+## raspberry pi
+username: hyphen  
+password: hyphen
+## orangepi
+username: orangepi  
+password: orangepi
+# default commmand 
+all these commands is aliases in `~/.zshrc`
+## screen dithering command
+`d0` : close screen dithering  
+`d3` : default screen dithering  
+`d4` : max dithering , best for image display  
+you can change default setting in /etc/rc.local  
+
+## backlight command
+`b` : turn on backlight  
+`bn` ：close backlight  
+or control by side button
+## touch pad：
+`key` ： use touch pad as arrow key  
+`mouse` ： use touch pad as mouse
+
+## desktop（experimental ):
+raspberry pi: ` su -l hyphen -c xinit`   
+orangepi: ` su -l orangepi -c xinit`  
+# keymap
+## [origin beepy keymap on cli](https://github.com/ardangelo/beepberry-keyboard-driver/tree/main?tab=readme-ov-file#basic-key-mappings)
+## [keymap on desktop](https://github.com/hyphenlee/jdi-drm-rpi?tab=readme-ov-file#keyboard-input-under-gui)
